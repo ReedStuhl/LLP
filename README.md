@@ -2,4 +2,4 @@
 Python Large Language Processing
   - Pytorch
   - BERT
-  - PANDAS!
+  - PANDAS
